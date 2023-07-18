@@ -1,6 +1,6 @@
-# tech-start
+# Full Stack Road Map
 
-Start Your Tech roadmap
+
 
 
 
