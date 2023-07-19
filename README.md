@@ -8,39 +8,29 @@
 
 ## Code Editor IDE
 
-> notepad
- 
-> visual studio code (VS Code)
-
-> dreamweaver
+- notepad
+- visual studio code (VS Code)
+- dreamweaver
 
 ## Client Side Technology
 
-> html
-
-> css
-
-> javascript
-
-> jquery
+- html
+- css
+- javascript
+- jquery
 
 ## client side lib and framework
 
-> react
-
-> Angular
+- react
+- Angular
 
 ## Server Side Technology
 
-> node
-
-> java
-
-> python
-
-> php
-
-> .net
+- node
+- java
+- python
+- php
+- .net
 
 
 
