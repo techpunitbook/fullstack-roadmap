@@ -5,6 +5,8 @@
 - what is web development ?
 - what is web browser ?
 - what is Code Editor ?
+- What is domin name and hosting ?
+- What is git and github ?
 
 ## Code Editor IDE
 
