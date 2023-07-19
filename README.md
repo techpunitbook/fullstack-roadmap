@@ -21,8 +21,10 @@
 
 ## client side lib and framework
 
-- react
-- Angular
+- ecmaScript
+- typeScript
+- React JS
+- Angular JS
 
 ## Server Side Technology
 
