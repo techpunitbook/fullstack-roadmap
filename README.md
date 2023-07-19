@@ -14,6 +14,35 @@
 
 > dreamweaver
 
+## Client Side Technology
+
+> html
+
+> css
+
+> javascript
+
+> jquery
+
+## client side lib and framework
+
+> react
+
+> Angular
+
+## Server Side Technology
+
+> node
+
+> java
+
+> python
+
+> php
+
+> .net
+
+
 
   
 
